@@ -1,5 +1,5 @@
 ---
-title: Cloudflare: An Introduction to the Cloud-Based Security and Web Performance Solution
+title: Cloudflare
 categories:
 - Cloudflare
 feature_image: "https://picsum.photos/2560/600?image=872"

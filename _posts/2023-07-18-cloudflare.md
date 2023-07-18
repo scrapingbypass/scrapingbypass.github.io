@@ -4,6 +4,9 @@ categories:
 - Cloudflare
 excerpt: |
   Cloudflare is a cloud-based security and web performance solution that provides a range of tools and services to help website owners improve their online presence. The platform offers a suite of services that includes content delivery, DDoS protection, SSL encryption, and more.
+feature_text: |
+  ## Cloudflare
+  Cloud-based security and web performance solution that provides a range of tools and services to help website owners improve their online presence.
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 

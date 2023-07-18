@@ -39,10 +39,10 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: scrapingbypass # jekyll-seo-tag > Owners twitter username
+author: ScrapingBypass # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: ScrapingBypass # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/scrapingbypass
     - https://github.com/scrapingbypass
@@ -91,13 +91,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "ScrapingBypass" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "ScrapingBypass API helps users web scraping bypass Cloudflare 5 seconds delay, Captcha anti-robot verification!" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: "https://scrapingbypass.github.io"
 repo: "https://github.com/scrapingbypass/scrapingbypass.github.io"
-email: "me@daviddarnes.com"
+email: ""
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -121,26 +121,22 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
 - title: Blog
-  url: /blog/
+  url: /blog
 - title: Categories
-  url: /categories/
+  url: /categories
 - title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+  url: /search
+
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Written by ScrapingBypass
+  url: https://scrapingbypass.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  Twitter: https://twitter.com/scrapingbypass
+  GitHub: https://github.com/scrapingbypass
+  link: https://scrapingbypass.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

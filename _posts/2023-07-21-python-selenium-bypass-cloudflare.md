@@ -24,7 +24,6 @@ python Copy code
 import undetected_chromedriver as uc
 driver = uc.Chrome()
 driver.get('https://nowsecure.nl')
-
 ```
 
 2. Directly modify the chromedriver executable file You can change the key variable to any character that does not contain "cdc".  
@@ -76,7 +75,6 @@ def patch_exe(self):
                 newline = re.sub(b"cdc_.{22}", replacement, line)
                 fh.write(newline)
                 linect += 1 
-
 ```
 
 3. Using the **ScrapingBypass** API, you can easily [bypass Cloudflare](https://www.scrapingbypass.com) robot verification, even if you need to send 100,000 requests, you don't have to worry about being identified as a scraper.  

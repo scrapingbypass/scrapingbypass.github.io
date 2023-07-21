@@ -12,11 +12,12 @@ feature_image: "https://picsum.photos/2560/600?image=872"
   
   
 
-Like many websites, Cloudflare also detects access to see if it is initiated by a Selenium bot. This detection mainly focuses on whether there are unique js variables, such as variables containing "selenium" and "webdriver", or file variables containing "$cdc_" and "$wdc_".
+Like many websites, Cloudflare also detects access to see if it is initiated by a Selenium bot. This detection mainly focuses on whether there are unique js variables, such as variables containing "selenium" and "webdriver", or file variables containing "$cdc_" and "$wdc_".  
 
-The detection mechanism of each driver may be different, the following solutions are mainly for chromedriver.
+The detection mechanism of each driver may be different, the following solutions are mainly for chromedriver.  
 
-1. Use Undetected-chromedriver This is a very convenient package that can be installed directly through pip. Then initialize the driver like below, after that it works just like regular Selenium usage.
+1. Use Undetected-chromedriver This is a very convenient package that can be installed directly through pip. Then initialize the driver like below, after that it works just like regular Selenium usage.  
+   
 ```
 python Copy code
 
@@ -26,7 +27,8 @@ driver.get('https://nowsecure.nl')
 
 ```
 
-2. Directly modify the chromedriver executable file You can change the key variable to any character that does not contain "cdc".
+2. Directly modify the chromedriver executable file You can change the key variable to any character that does not contain "cdc".  
+   
 ```
 javascript Copy code
 
@@ -53,7 +55,7 @@ function getPageCache(opt_doc, opt_w3c) {
 }
 ```
 
-There is not much difference between these two methods in essence. In fact, undetected-chromedriver will apply a patch when starting chromedriver, completing the steps of modifying the key.
+There is not much difference between these two methods in essence. In fact, undetected-chromedriver will apply a patch when starting chromedriver, completing the steps of modifying the key. 
 
 ```
 python Copy code
@@ -76,5 +78,6 @@ def patch_exe(self):
                 linect += 1 
 
 ```
-3. Using the **ScrapingBypass** API, you can easily [bypass Cloudflare](https://www.scrapingbypass.com) robot verification, even if you need to send 100,000 requests, you don't have to worry about being identified as a scraper.
+
+3. Using the **ScrapingBypass** API, you can easily [bypass Cloudflare](https://www.scrapingbypass.com) robot verification, even if you need to send 100,000 requests, you don't have to worry about being identified as a scraper.  
 A ScrapingBypass API can break through all anti-anti-bot robot inspections, easily bypass Cloudflare, CAPTCHA verification, WAF, CC protection, and provide HTTP API and Proxy, including interface address, request parameters, return processing; and set Referer, browser UA and headless status and other browser fingerprint device features.

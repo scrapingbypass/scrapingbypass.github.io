@@ -1,7 +1,9 @@
 ---
 title: How does Python Selenium bypass cloudflare to crawl web pages?
 categories:
-- Cloudflare, Python, Selenium
+- Cloudflare
+- Python
+- Selenium
 excerpt: |
   How does Python Selenium bypass cloudflare to crawl web pages?
 feature_text: |

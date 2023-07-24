@@ -119,8 +119,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
+- title: ScrapingBypass
+  url: https://www.scrapingbypass.com?utm_source=github&utm_medium=scrapingbypassgithubio&utm_content=nav
 - title: Blog
   url: /blog/
 - title: Categories
@@ -131,7 +131,7 @@ navigation_header:
 
 navigation_footer:
 - title: Written by ScrapingBypass
-  url: https://www.scrapingbypass.com
+  url: https://www.scrapingbypass.com?utm_source=github&utm_medium=scrapingbypassgithubio&utm_content=footer
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/scrapingbypass

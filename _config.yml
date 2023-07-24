@@ -131,7 +131,7 @@ navigation_header:
 
 navigation_footer:
 - title: Written by ScrapingBypass
-  url: https://scrapingbypass.com
+  url: https://www.scrapingbypass.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/scrapingbypass

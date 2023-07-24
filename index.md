@@ -9,13 +9,7 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
 
 [ScrapingBypass](https://www.scrapingbypass.com) web scraping API can bypass Cloudflare Captcha anti-robot verification for users to extract data easily!
 
-{% include button.html text="ScrapingBypass" link="https://www.scrapingbypass.com" color="#0366d6" %}
-{% include button.html text="Youtube" icon="youtube" link="https://www.youtube.com/channel/UCglvh6mWKY1lgeN6dj2aeug" color="#0366d6" %}
-{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/scrapingbypass" color="blue" %}
-{% include button.html text="Pinterest" icon="pinterest" link="https://www.pinterest.com/scrapingbypass" color="red" %}
-{% include button.html text="TikTok" icon="tiktok" link="https://www.tiktok.com/@scrapingbypass" color="#0366d6" %}
-{% include button.html text="Reddit" icon="reddit" link="https://www.reddit.com/user/scrapingbypass" color="organge" %}
-{% include button.html text="Github" icon="github" link="https://github.com/scrapingbypass" color="#0366d6" %}
+{% include button.html text="ScrapingBypass" link="https://www.scrapingbypass.com" color="#0366d6" %}{% include button.html text="Youtube" icon="youtube" link="https://www.youtube.com/channel/UCglvh6mWKY1lgeN6dj2aeug" color="#0366d6" %}{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/scrapingbypass" color="blue" %}{% include button.html text="Pinterest" icon="pinterest" link="https://www.pinterest.com/scrapingbypass" color="red" %}{% include button.html text="TikTok" icon="tiktok" link="https://www.tiktok.com/@scrapingbypass" color="#0366d6" %}{% include button.html text="Reddit" icon="reddit" link="https://www.reddit.com/user/scrapingbypass" color="organge" %}{% include button.html text="Github" icon="github" link="https://github.com/scrapingbypass" color="#0366d6" %}
 
 ### Anti-bot
 #### Bypass Cloudflare WAF

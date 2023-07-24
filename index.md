@@ -15,51 +15,51 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
 <table>
     <thead>
         <tr>
-            <th>Plan</th>
-            <th>Trial</th>
-            <th>Basic  </th>
-            <th>Intermediate </th>
-            <th>Advanced </th>
+            <th><strong>Plan</strong></th>
+            <th><strong>Trial</strong></th>
+            <th><strong>Basic</strong></th>
+            <th><strong>Intermediate</strong></th>
+            <th><strong>Advanced</strong></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Price</th>
+            <th><strong>Price</strong></th>
             <td>$3</td>
             <td>$29</td>
             <td>$59</td>
             <td>$99 </td>
         </tr>
         <tr>
-            <th>API Credits</th>
+            <th><strong>API Credits</strong></th>
             <td>5,000</td>
             <td>500,000</td>
             <td>2,000,000</td>
             <td>4,500,000 </td>
         </tr>
         <tr>
-            <th>Validity</th>
+            <th><strong>Validity</strong></th>
             <td>3 days</td>
             <td>1 month</td>
             <td>1 month</td>
             <td>1 month </td>
         </tr>
         <tr>
-            <th>HTTP Proxy</th>
+            <th><strong>HTTP Proxy</strong></th>
             <td>√</td>
             <td>√</td>
             <td>√</td>
             <td>√ </td>
         </tr>
         <tr>
-            <th>Anti-bot</th>
+            <th><strong>Anti-bot</strong></th>
             <td>√</td>
             <td>√</td>
             <td>√</td>
             <td>√ </td>
         </tr>
         <tr>
-            <th>Multilingual API</th>
+            <th><strong>Multilingual API</strong></th>
             <td>√</td>
             <td>√</td>
             <td>√</td>
@@ -69,16 +69,16 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
 </table>
 
 ### Anti-bot
-[Bypass Cloudflare WAF](https://www.scrapingbypass.com/waf-bypass.html)
-[Bypass Captcha](https://www.scrapingbypass.com/bypass-captcha.html)
-[Web Scraping without getting blocked](https://www.scrapingbypass.com/web-scraping-without-getting-blocked.html)
+[Bypass Cloudflare WAF](https://www.scrapingbypass.com/waf-bypass.html)  
+[Bypass Captcha](https://www.scrapingbypass.com/bypass-captcha.html)  
+[Web Scraping without getting blocked](https://www.scrapingbypass.com/web-scraping-without-getting-blocked.html)  
 
 ### Proxy IP
-[SERP Web Scraping Proxy IP](https://www.scrapingbypass.com/serp-scraper-api.html)
-[E-commerce Web Scraping Proxy IP](https://www.scrapingbypass.com/ecommerce-scraper-api.html)
-[Web Scraping Proxy IP](https://www.scrapingbypass.com/web-scraper-api.html)
+[SERP Web Scraping Proxy IP](https://www.scrapingbypass.com/serp-scraper-api.html)  
+[E-commerce Web Scraping Proxy IP](https://www.scrapingbypass.com/ecommerce-scraper-api.html)  
+[Web Scraping Proxy IP](https://www.scrapingbypass.com/web-scraper-api.html)  
 
 ### API docs
-[https://github.com/scrapingbypass/api](https://github.com/scrapingbypass/api)
+[https://github.com/scrapingbypass/api](https://github.com/scrapingbypass/api)  
 
 

@@ -9,12 +9,12 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
 
 [ScrapingBypass](https://www.scrapingbypass.com) web scraping API can bypass Cloudflare Captcha anti-robot verification for users to extract data easily!
 
-{% include button.html text="ScrapingBypass" icon="website" link="https://www.scrapingbypass.com" color="#0366d6" %}
-{% include button.html text="Website" icon="youtube" link="https://www.youtube.com/channel/UCglvh6mWKY1lgeN6dj2aeug" color="red" %}
-{% include button.html text="Website" icon="twitter" link="https://twitter.com/scrapingbypass" color="blue" %}
-{% include button.html text="Website" icon="pinterest" link="https://www.pinterest.com/scrapingbypass" color="red" %}
-{% include button.html text="Website" icon="tiktok" link="https://www.scrapingbypass.com" color="black" %}
-{% include button.html text="Website" icon="reddit" link="https://www.reddit.com/user/scrapingbypass" color="organge" %}
+{% include button.html text="ScrapingBypass" link="https://www.scrapingbypass.com" color="#0366d6" %}
+{% include button.html text="Youtube" icon="youtube" link="https://www.youtube.com/channel/UCglvh6mWKY1lgeN6dj2aeug" color="#0366d6" %}
+{% include button.html text="Twitter" icon="twitter" link="https://twitter.com/scrapingbypass" color="blue" %}
+{% include button.html text="Pinterest" icon="pinterest" link="https://www.pinterest.com/scrapingbypass" color="red" %}
+{% include button.html text="TikTok" icon="tiktok" link="https://www.tiktok.com/@scrapingbypass" color="#0366d6" %}
+{% include button.html text="Reddit" icon="reddit" link="https://www.reddit.com/user/scrapingbypass" color="organge" %}
 {% include button.html text="Github" icon="github" link="https://github.com/scrapingbypass" color="#0366d6" %}
 
 ### Anti-bot
@@ -31,11 +31,58 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
 [https://github.com/scrapingbypass/api](https://github.com/scrapingbypass/api)
 
 ### Pricing
-| Plan             | Trial  | Basic   | Intermediate  | Advanced  |
-|:----------------:|:------:|:-------:|:-------------:|:---------:|
-| Price            | $3     | $29     | $59           | $99       |
-| API Credits      | 5,000   | 500,000  | 2,000,000       | 4,500,000   |
-| Validity         | 3 days | 1 month | 1 month       | 1 month   |
-| HTTP Proxy       | √      | √       | √             | √         |
-| Anti-bot         | √      | √       | √             | √         |
-| Multilingual API | √      | √       | √             | √         |
+<table>
+    <thead>
+        <tr>
+            <th>Plan</th>
+            <th>Trial</th>
+            <th>Basic  </th>
+            <th>Intermediate </th>
+            <th>Advanced </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Price</th>
+            <td>$3</td>
+            <td>$29</td>
+            <td>$59</td>
+            <td>$99 </td>
+        </tr>
+        <tr>
+            <th>API Credits</th>
+            <td>5,000</td>
+            <td>500,000</td>
+            <td>2,000,000</td>
+            <td>4,500,000 </td>
+        </tr>
+        <tr>
+            <th>Validity</th>
+            <td>3 days</td>
+            <td>1 month</td>
+            <td>1 month</td>
+            <td>1 month </td>
+        </tr>
+        <tr>
+            <th>HTTP Proxy</th>
+            <td>√</td>
+            <td>√</td>
+            <td>√</td>
+            <td>√ </td>
+        </tr>
+        <tr>
+            <th>Anti-bot</th>
+            <td>√</td>
+            <td>√</td>
+            <td>√</td>
+            <td>√ </td>
+        </tr>
+        <tr>
+            <th>Multilingual API</th>
+            <td>√</td>
+            <td>√</td>
+            <td>√</td>
+            <td>√ </td>
+        </tr>
+    </tbody>
+</table>

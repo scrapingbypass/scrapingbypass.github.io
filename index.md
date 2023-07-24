@@ -5,6 +5,7 @@ feature_text: |
   ScrapingBypass Web scraping API can bypass Cloudflare Captcha verification!
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verification!"
+aside: true
 ---
 
 [ScrapingBypass](https://www.scrapingbypass.com) web scraping API can bypass Cloudflare Captcha anti-robot verification for users to extract data easily!

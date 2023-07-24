@@ -136,7 +136,7 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/scrapingbypass
   GitHub: https://github.com/scrapingbypass
-  link: https://scrapingbypass.com
+  link: https://www.scrapingbypass.com
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour

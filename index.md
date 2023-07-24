@@ -2,9 +2,9 @@
 title: ScrapingBypass
 feature_text: |
   ## ScrapingBypass
-  ScrapingBypass Web scraping bypass Cloudflare 5 seconds delay, Captcha anti-robot verification!
+  ScrapingBypass Web scraping API can bypass Cloudflare Captcha verification!
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "ScrapingBypass Web scraping bypass Cloudflare 5 seconds delay, Captcha anti-robot verification!"
+excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verification!"
 ---
 
 [ScrapingBypass](https://www.scrapingbypass.com) web scraping API can bypass Cloudflare Captcha anti-robot verification for users to extract data easily!

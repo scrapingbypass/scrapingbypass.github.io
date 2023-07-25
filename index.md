@@ -69,7 +69,7 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
 </table>
 
 ### Anti-bot
-[Bypass Cloudflare WAF](https://www.scrapingbypass.com/waf-bypass.html)  
+[Bypass Cloudflare WAF](https://www.scrapingbypass.com/cloudflare-bypass.html)  
 [Bypass Captcha](https://www.scrapingbypass.com/bypass-captcha.html)  
 [Web Scraping without getting blocked](https://www.scrapingbypass.com/web-scraping-without-getting-blocked.html)  
 

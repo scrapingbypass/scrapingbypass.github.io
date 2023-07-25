@@ -33,9 +33,9 @@ excerpt: "ScrapingBypass Web scraping API can bypass Cloudflare Captcha verifica
         <tr>
             <th><strong>API Credits</strong></th>
             <td>5,000</td>
+            <td>100,000</td>
             <td>500,000</td>
-            <td>2,000,000</td>
-            <td>4,500,000 </td>
+            <td>2,000,000 </td>
         </tr>
         <tr>
             <th><strong>Validity</strong></th>

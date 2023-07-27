@@ -120,7 +120,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: ScrapingBypass
-  url: https://www.scrapingbypass.com?utm_source=scrapingbypassgithubio&utm_medium=referral&utm_content=nav
+  url: https://www.scrapingbypass.com?utm_source=scrapingbypassgithubio&utm_medium=referral&utm_content=navbrand
+- title: Pricing
+  url: https://www.scrapingbypass.com/pricing.html?utm_source=scrapingbypassgithubio&utm_medium=referral&utm_content=navprice
 - title: Blog
   url: /blog/
 - title: Categories

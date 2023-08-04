@@ -5,7 +5,7 @@ categories:
 excerpt: |
   In today's digital age, the development of the Internet has made data collection an indispensable link in corporate decision-making and market research. However, in the face of the need to collect a large amount of data, website administrators have to deal with the infestation of crawlers. To protect their websites from malicious crawlers, more and more websites have adopted anti-bot measures.
 feature_text: |
-  ## 
+
   
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
